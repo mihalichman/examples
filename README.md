@@ -14,3 +14,9 @@ Methods for work with notice, add notice and edit
 # 4. ProfileController
 REST path for work with profile, SpringBoot, Hibernate 
 
+# JS directory
+ code in js
+  - BULK_EDIT_USERS - function for edit mongo db users 
+  - totalPayoutsEval - functions for different eval works
+  - index - function work with mongodb info
+
